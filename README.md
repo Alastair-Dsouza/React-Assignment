@@ -13,20 +13,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
-##How to use
+## How to use
 
-####Add To-Do List item
+#### Add To-Do List item
 Write at least 3 characters and Add Todo
 
-####Mark as done
+#### Mark as done
 Double click on Check Mark icon
 
-####Delete Task
+#### Delete Task
 Double click List item
 
-####Sorting
+#### Sorting
 Drag and drop to sort
 
-##To Implement:
+## To Implement:
 Make app responsive
 Sort based on Completed
